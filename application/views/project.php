@@ -1,6 +1,5 @@
-
-<body data-ix="show">
-      <div class="content-waves">
+<body>
+   <div class="content-waves">
         <svg class="scene" width="100%" height="100vh" preserveAspectRatio="none" viewBox="0 0 1440 800" xmlns:pathdata="http://www.codrops.com/">
           <path d="M -84.52,-81.13 C -94.62,-73.4 -88.88,-59.55 -90.33,-48.91 -89.29,27.31 -89.61,103.5 -88.33,179.8 -85.99,416.1 -81.32,888.9 -81.32,888.9 -81.32,888.9 974.5,888.7 1587,891.9 1518,719.9 1487,644 1429,533 1388,437.7 1447,259.7 1400,187 1362,132 1270,90.53 1207,39.93 1161,2.932 1071,-74.45 1071,-74.45 1071,-74.45 914.5,-77.77 848.2,-80.17 537.6,-80.84 227,-81.38 -83.6,-81.6 -83.91,-81.44 -84.21,-81.29 -84.52,-81.13 Z" pathdata:id="M -84.52,-81.13 C -94.62,-73.4 -88.88,-59.55 -90.33,-48.91 -89.29,27.31 -89.61,103.5 -88.33,179.8 -85.99,416.1 -81.32,888.9 -81.32,888.9 -81.32,888.9 974.5,888.7 1587,891.9 1576,704.7 1517,625.7 1459,514.7 1418,419.4 1430,288.5 1382,187 1349,116.3 1296,54.47 1240,0.3429 1205,-33.51 1120,-83.59 1120,-83.59 1120,-83.59 914.5,-77.77 848.2,-80.17 537.6,-80.84 227,-81.38 -83.6,-81.6 -83.91,-81.44 -84.21,-81.29 -84.52,-81.13 Z"></path>
           <path d="M 665.2,-83.08 C 413.7,-81.89 162.2,-82.43 -89.29,-81.61 -90.35,164.3 -85.06,410.2 -84.09,656.1 -83.37,733.7 -82.64,811.3 -81.92,888.9 442.4,889.8 966.7,890.7 1491,891.6 1253,747.5 1417,429.4 1286,245.4 1227,163.2 1107,142.1 1043,64.54 1009,24.41 973,-76.01 973,-76.01 973,-76.01 706.6,-83.67 665.2,-83.08 Z" pathdata:id="M 665.2,-83.08 C 413.7,-81.89 162.2,-82.43 -89.29,-81.61 -90.35,164.3 -85.06,410.2 -84.09,656.1 -83.37,733.7 -82.64,811.3 -81.92,888.9 442.4,889.8 966.7,890.7 1491,891.6 1253,747.5 1349,460.4 1243,260.6 1199,176.6 1145,96.92 1083,24.95 1050,-12.63 973,-76.01 973,-76.01 973,-76.01 706.6,-83.67 665.2,-83.08 Z"></path>
@@ -39,34 +38,22 @@
       </div>
     </div>
   </div>
-  <div class="div-block-test">
-    <h1 data-ix="footer-animation" class="h1-testing">Creative & Innovative
-    <!-- <span class="long-line">-</span> -->
-    </h1>
-    <h2 data-ix="footer-animation" class="h2">Hi, I&#x27;m Mukesh P.K. Creative Designer based in Kochi, Kerala, India</h2>
-  </div><a href="project.html" data-ix="footer-animation" class="explore-more w-clearfix w-button">— <span class="text-span">Explore Projects </span></a>
+  <div class="box-titles w-hidden-medium w-hidden-small w-hidden-tiny w-clearfix"><a href="annabelle.html" data-ix="project-three" class="title-project-one">Annabelle<br><span class="projects">Branding, web</span></a><a data-ix="project-one" href="decathlon.html" class="title-project-one">Decathlon<br><span class="projects">UI / UX DESIGN</span></a><a href="eventoxtra.html" data-ix="project-four" class="title-project-one">Evento Xtra<br><span class="projects">UI / UX DESIGN</span></a><a href="el-flako.html" data-ix="project-five" class="title-project-one">El Flako<br><span class="projects">BRANDING, WEB</span></a></div>
+  <div class="project-pic w-hidden-medium w-hidden-small w-hidden-tiny"></div>
+  <div class="project-pic-three w-hidden-medium w-hidden-small w-hidden-tiny"></div>
+  <div class="project-pic-four w-hidden-medium w-hidden-small w-hidden-tiny"></div>
+  <div class="project-pic-five w-hidden-medium w-hidden-small w-hidden-tiny"></div>
+  <a href="annabelle.html" class="link-case-mobile one w-hidden-main w-inline-block">
+    <h1 class="title-project-mobile">Annabelle<br><span class="projects">branding, web</span></h1>
+  </a>
+  <a href="decathlon.html" class="link-case-mobile two w-hidden-main w-inline-block">
+    <h1 class="title-project-mobile">Decathlon<br><span class="projects">ui / ux design</span></h1>
+  </a>
+  <a href="eventoxtra.html" class="link-case-mobile four w-hidden-main w-inline-block">
+    <h1 class="title-project-mobile">Evento Xtra<br><span class="projects">ui / ux design</span></h1>
+  </a>
+  <a href="el-flako.html" class="link-case-mobile five w-hidden-main w-inline-block">
+    <h1 class="title-project-mobile">El Flako<br><span class="projects">branding, web</span></h1>
+  </a>
   
-  <div class="footer w-hidden-medium w-hidden-small w-hidden-tiny w-clearfix">
-    <a href="https://dribbble.com/marcomarino" target="_blank" class="test-social-block project-icon w-inline-block">
-      <div class="icon-social">Dribbble</div>
-    </a>
-    <a href="https://www.instagram.com/marcomarino.design/" target="_blank" class="test-social-block project-icon w-inline-block">
-      <div class="icon-social">Instagram</div>
-    </a>
-    <a href="https://www.linkedin.com/in/marcomarinodesign/" target="_blank" class="test-social-block project-icon w-inline-block">
-      <div class="icon-social">Linkedin</div>
-    </a>
-    <a href="https://curiou5.tumblr.com/" target="_blank" class="test-social-block project-icon w-inline-block">
-      <div class="icon-social">Tumblr</div>
-    </a>
-    <div class="text-block-2 w-hidden-medium w-hidden-small w-hidden-tiny">Best experience on modern browsers</div>
-  </div>
-  <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js" type="text/javascript"></script>
-  <script src="<?php echo base_url();?>assets/js/webflow.js" type="text/javascript"></script>
-  <script src="<?php echo base_url();?>assets/js/anime.min.js"></script>
-  <script src="<?php echo base_url();?>assets/js/demo.js"></script>
-  <!-- [if lte IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/placeholders/3.0.2/placeholders.min.js"></script><![endif] -->
-</body>
-
-<!-- Mirrored from www.marcomarino.design/ by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 05 Mar 2018 11:12:50 GMT -->
-</html>
+  
