@@ -38,13 +38,18 @@
       </div>
     </div>
   </div>
-  <div class="box-titles w-hidden-medium w-hidden-small w-hidden-tiny w-clearfix"><a href="annabelle.html" data-ix="project-three" class="title-project-one">Annabelle<br><span class="projects">Branding, web</span></a><a data-ix="project-one" href="decathlon.html" class="title-project-one">Decathlon<br><span class="projects">UI / UX DESIGN</span></a><a href="eventoxtra.html" data-ix="project-four" class="title-project-one">Evento Xtra<br><span class="projects">UI / UX DESIGN</span></a><a href="el-flako.html" data-ix="project-five" class="title-project-one">El Flako<br><span class="projects">BRANDING, WEB</span></a></div>
+  <div class="box-titles w-hidden-medium w-hidden-small w-hidden-tiny w-clearfix">
+    <a href="annabelle.html" data-ix="project-three" class="title-project-one">mPhone 7s<br><span class="projects">3D Animation & Rendering, Branding</span></a>
+    <a data-ix="project-one" href="decathlon.html" class="title-project-one">Muthoot<br><span class="projects">Publicity Designs, Brochures</span></a>
+    <a href="eventoxtra.html" data-ix="project-four" class="title-project-one">Evento Xtra<br><span class="projects">UI / UX DESIGN</span></a>
+    <a href="el-flako.html" data-ix="project-five" class="title-project-one">El Flako<br><span class="projects">BRANDING, WEB</span></a>
+  </div>
   <div class="project-pic w-hidden-medium w-hidden-small w-hidden-tiny"></div>
   <div class="project-pic-three w-hidden-medium w-hidden-small w-hidden-tiny"></div>
   <div class="project-pic-four w-hidden-medium w-hidden-small w-hidden-tiny"></div>
   <div class="project-pic-five w-hidden-medium w-hidden-small w-hidden-tiny"></div>
   <a href="annabelle.html" class="link-case-mobile one w-hidden-main w-inline-block">
-    <h1 class="title-project-mobile">Annabelle<br><span class="projects">branding, web</span></h1>
+    <h1 class="title-project-mobile">mPhone 7s<br><span class="projects">3D Animation & Rendering, Branding</span></h1>
   </a>
   <a href="decathlon.html" class="link-case-mobile two w-hidden-main w-inline-block">
     <h1 class="title-project-mobile">Decathlon<br><span class="projects">ui / ux design</span></h1>
