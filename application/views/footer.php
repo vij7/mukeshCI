@@ -1,15 +1,15 @@
   
     <div class="footer w-hidden-medium w-hidden-small w-hidden-tiny w-clearfix">
-      <a href="https://dribbble.com/marcomarino" target="_blank" class="test-social-block project-icon w-inline-block">
+      <a href="#" target="_blank" class="test-social-block project-icon w-inline-block">
         <div class="icon-social">Dribbble</div>
       </a>
-      <a href="https://www.instagram.com/marcomarino.design/" target="_blank" class="test-social-block project-icon w-inline-block">
+      <a href="#" target="_blank" class="test-social-block project-icon w-inline-block">
         <div class="icon-social">Instagram</div>
       </a>
-      <a href="https://www.linkedin.com/in/marcomarinodesign/" target="_blank" class="test-social-block project-icon w-inline-block">
+      <a href="#" target="_blank" class="test-social-block project-icon w-inline-block">
         <div class="icon-social">Linkedin</div>
       </a>
-      <a href="https://curiou5.tumblr.com/" target="_blank" class="test-social-block project-icon w-inline-block">
+      <a href="#" target="_blank" class="test-social-block project-icon w-inline-block">
       <div class="icon-social">Tumblr</div>
       </a>
       <div class="text-block-2 w-hidden-medium w-hidden-small w-hidden-tiny">Best experience on modern browsers</div>

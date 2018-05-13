@@ -4,10 +4,10 @@
 <head>
   <meta charset="utf-8">
   <title><?php echo $title;?></title>
-  <meta content="Marco Marino is a visual &amp; UI/UX designer born in Italy, currently living and working in Barcelona." name="description">
-  <meta content="Marco Marino | UI/UX Designer" property="og:title">
-  <meta content="Marco Marino is a visual &amp; UI · UX designer born in Italy, currently living and working in Barcelona." property="og:description">
-  <meta content="http://www.marcomarino.design/2016/opengraph/marcomarino.jpg" property="og:image">
+  <meta content="Mukesh PK - Creative Graphic Designer | Freelance Graphic Designer | UI Design | 3D modelling | Branding & Print Designs" name="description">
+  <meta content="Mukesh PK - Creative Graphic Designer | Freelance Graphic Designer | UI Design | 3D modelling | Branding & Print Designs" property="og:title">
+  <meta content="Mukesh PK - Creative Graphic Designer | Freelance Graphic Designer | UI Design | 3D modelling | Branding & Print Designs" property="og:description">
+  <meta content="<?php echo base_url();?>assets/images/thumb.jpg" property="og:image">
   <meta content="summary" name="twitter:card">
   <meta content="width=device-width, initial-scale=1" name="viewport">
   <meta content="Webflow" name="generator">
@@ -25,7 +25,7 @@
   <!-- [if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js" type="text/javascript"></script><![endif] -->
   <script type="text/javascript">!function(o,c){var n=c.documentElement,t=" w-mod-";n.className+=t+"js",("ontouchstart"in o||o.DocumentTouch&&c instanceof DocumentTouch)&&(n.className+=t+"touch")}(window,document);</script>
   <link href="<?php echo base_url();?>assets/images/fivicon.jpg" rel="shortcut icon" type="image/x-icon">
-  <link href="<?php echo base_url();?>assets/images/1.jpg" rel="apple-touch-icon">
+  <link href="<?php echo base_url();?>assets/images/fivicon.jpg" rel="apple-touch-icon">
   <style>
 .bg-video, .w-nav-overlay, .w-tab-content, body {
     overflow-x: hidden;
@@ -35,7 +35,6 @@
 }
 </style>
 <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-111863189-1"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}

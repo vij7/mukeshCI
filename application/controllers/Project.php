@@ -20,7 +20,7 @@ class Project extends CI_Controller {
 	 */
 	public function index()
 	{
-        $data["title"] = "Projects";
+        $data["title"] = "Projects | Mukesh PK - Creative Graphic Designer | Freelance Graphic Designer | UI Design | 3D modelling | Branding & Print Designs";
         $this->load->view('header',$data);
 		$this->load->view('project');
 		$this->load->view('footer');

@@ -20,8 +20,10 @@ class Welcome extends CI_Controller {
 	 */
 	public function index()
 	{
-		$data["title"]="home";
+		$data["title"]="Mukesh PK - Creative Graphic Designer | Freelance Graphic Designer | UI Design | 3D modelling | Branding & Print Designs";
+		$this->load->library('email');
 		$this->load->view('header',$data);
 		$this->load->view('index');
+		$this->load->view('footer');
 	}
 }

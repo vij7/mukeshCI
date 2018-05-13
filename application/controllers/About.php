@@ -20,7 +20,7 @@ class About extends CI_Controller {
 	 */
 	public function index()
 	{
-        $data["title"] = "About";
+        $data["title"] = "About | Mukesh PK - Creative Graphic Designer | Freelance Graphic Designer | UI Design | 3D modelling | Branding & Print Designs";
         $this->load->view('header',$data);
 		$this->load->view('about');
 		$this->load->view('footer');

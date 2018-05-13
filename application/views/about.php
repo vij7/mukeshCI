@@ -32,9 +32,16 @@
     <div class="img-about"></div>
     <div class="row-about w-row">
       <div class="w-col w-col-6">
-        <p class="p-about">CLIENTS :<br><br>Decathlon<br>Estrella Damm<br>7Up<br>Bodas.net<br>+ more<br><br>PERSONAL CONTACT:<br><br><a href="cdn-cgi/l/email-protection.html" class="__cf_email__" data-cfemail="acc4c9c0c0c3ecc1cddecfc3c1cddec5c2c382c8c9dfc5cbc2">[email&#160;protected]</a><br>+34 663 546 271<span class="fontawesone"></span></p>
+        <p class="p-about">CLIENTS :<br><br>mPhone Electronics & Technologies<br>Infinix Mobiles<br>ICMS International College<br>Muthoot Fincorp<br>Sigma Prime<br>Clickseon.com<br>Smashingpost.net<br/><a href="https://www.behance.net/mughesh">+ View all my projects</a><br><br>PERSONAL CONTACT:<br><br>info@mukeshcreatives.com<br>+91 9562080100<span class="fontawesone"></span></p>
       </div>
       <div class="w-clearfix w-col w-col-6">
-        <p class="p-about">Hello, my name is Marco Marino and I’m a UI · UX designer. I’ve a passion for the beauty, whether simple or extravagant. I also love coding and typography.<br><br>I was born in Naples, but now I live in Barcelona. So, I’m Italian and like all Italian people I live of pasta and pizza. And…of course, I always say “Mamma Mia!”<br><br>I gratueded @ Ilas Design School where I discovered my passion for problem solving declined to graphic arts. I am currently working @ Bodas.net as Senior User Interface Designer. <br><br>And please, don&#x27;t forget ... may the force be with you!</p><a data-ix="showblock" class="submit-button w-button">Let&#x27;s talk</a><a href="project.html" class="submit-button secondary w-button">View +Projects</a></div>
+        <p class="p-about">Hello and welcome to my online portfolio, i'm a freelance graphic designer based in Kerala, I design and illustrate web, print or motion projects for independant or major company looking for creative and efficient artworks.
+          <br><br>
+I have worked on a range of different projects from identity and branding, print material to web design.
+<br><br>
+Here is my porfolio, so don't hesitate to let me know what you think.
+I am always accepting new clients, collaboration or anything else !<br><br>And please, don&#x27;t forget ... may the force be with you!</p>
+<!-- <a data-ix="showblock" class="submit-button w-button">Let&#x27;s talk</a> -->
+<a href="https://www.behance.net/mughesh" class="submit-button secondary w-button">View +Projects</a></div>
     </div>
   </div>

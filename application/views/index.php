@@ -44,7 +44,7 @@
     <!-- <span class="long-line">-</span> -->
     </h1>
     <h2 data-ix="footer-animation" class="h2">Hi, I&#x27;m Mukesh P.K. Creative Designer based in Kochi, Kerala, India</h2>
-  </div><a href="project.html" data-ix="footer-animation" class="explore-more w-clearfix w-button">— <span class="text-span">Explore Projects </span></a>
+  </div><a href="<?php echo base_url();?>project" data-ix="footer-animation" class="explore-more w-clearfix w-button">— <span class="text-span">Explore Projects </span></a>
   
   <div class="footer w-hidden-medium w-hidden-small w-hidden-tiny w-clearfix">
     <a href="https://dribbble.com/marcomarino" target="_blank" class="test-social-block project-icon w-inline-block">
@@ -68,5 +68,4 @@
   <!-- [if lte IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/placeholders/3.0.2/placeholders.min.js"></script><![endif] -->
 </body>
 
-<!-- Mirrored from www.marcomarino.design/ by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 05 Mar 2018 11:12:50 GMT -->
 </html>
